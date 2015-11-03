@@ -18,6 +18,7 @@ define(function (require, exports, module) {
         fi  : true,
         fr  : true,
         it  : true,
-        tr  : true
+        tr  : true,
+        ja  : true
     };
 });
